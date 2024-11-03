@@ -19,10 +19,13 @@
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40px"/>Python
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60px"/> 
    
   
 <h2 id="started">🚀 Getting started</h2>
+
 Clone the repository:
 Run git clone https://github.com/yourusername/yourproject.git.
 
