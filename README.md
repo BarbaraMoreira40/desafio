@@ -19,10 +19,8 @@
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-          > Python
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40px"/>Python
+   
   
 <h2 id="started">🚀 Getting started</h2>
 Clone the repository:
