@@ -15,11 +15,6 @@
      <a href="PROJECT__URL">📱 Visit this Project</a>
 </p>
 
-<h2 id="layout">🎨 Layout</h2>
-
-
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/6ac30f13-4c08-4957-aef9-fc25875da6b2" width="400px">
     
 </p>
 
