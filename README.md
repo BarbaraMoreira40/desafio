@@ -23,23 +23,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60px"/> 
    
-  
-<h2 id="started">🚀 Getting started</h2>
-
-Clone the repository:
-Run git clone https://github.com/yourusername/yourproject.git.
-
-Navigate to the project directory:
-Use cd yourproject to move into the project folder.
-
-Install dependencies:
-Run npm install or yarn install to install the necessary packages.
-
-Run the project:
-Start the application using npm start or yarn start.
-
-View in browser:
-Go to http://localhost:3000 in your browser to access the running project.
+ 
 
 
 <h3>Prerequisites</h3>
